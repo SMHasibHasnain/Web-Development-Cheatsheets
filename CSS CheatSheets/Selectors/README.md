@@ -157,7 +157,6 @@ Old syntax: `:before`, modern: `::before`.
 
 - [MDN CSS Selectors Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - *CSS: The Definitive Guide* – Eric A. Meyer
-- *HTML & CSS: Design and Build Websites* – Jon Duckett
 - [CSS-Tricks Selector Almanac](https://css-tricks.com/almanac/selectors/)
 
 ---
