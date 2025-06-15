@@ -1,4 +1,3 @@
-
 # 🎓 CSS Selectors Master Reference
 
 This repository provides a **comprehensive, categorized, and example-rich reference of all CSS selectors**, ideal for software engineering students, researchers, and frontend developers.
@@ -7,21 +6,22 @@ This repository provides a **comprehensive, categorized, and example-rich refere
 
 ## 📚 Table of Contents
 
-- [Basic Selectors](#basic-selectors)
-- [Combinator Selectors](#Combinator Selectors)
-- [Attribute Selectors](#attribute-selectors)
-- [Pseudo-Class Selectors](#pseudo-class-selectors)
-  - [Structural Pseudo-Classes](#structural-pseudo-classes)
-  - [Type-Specific Pseudo-Classes](#type-specific-pseudo-classes)
-  - [UI/State-Based Pseudo-Classes](#uistate-based-pseudo-classes)
-  - [Form and Input Validation Pseudo-Classes](#form-and-input-validation-pseudo-classes)
-  - [Language, Direction, and Link Pseudo-Classes](#language-direction-and-link-pseudo-classes)
-- [Pseudo-Element Selectors](#pseudo-element-selectors)
-- [Logical & Negation Selectors](#logical--negation-selectors)
-- [Advanced Selector Combinations](#advanced-selector-combinations)
-- [Quick Summary Table](#quick-summary-table)
-- [Usage Frequency Key](#usage-frequency-key)
-- [Further Reading](#further-reading)
+- [🧱 Basic Selectors](#-basic-selectors)
+- [Combinator Selectors](#combinator-selectors)
+- [🧬 Attribute Selectors](#-attribute-selectors)
+- [🎭 Pseudo-Class Selectors](#-pseudo-class-selectors)
+  - [🔢 Structural Pseudo-Classes](#-structural-pseudo-classes)
+  - [🔤 Type-Specific Pseudo-Classes](#-type-specific-pseudo-classes)
+  - [👩‍💻 UI/State-Based Pseudo-Classes](#-uistate-based-pseudo-classes)
+  - [✅ Form and Input Validation Pseudo-Classes](#-form-and-input-validation-pseudo-classes)
+  - [🌍 Language, Direction, and Link Pseudo-Classes](#-language-direction-and-link-pseudo-classes)
+- [🧾 Pseudo-Element Selectors](#-pseudo-element-selectors)
+- [⚙️ Logical & Negation Selectors](#️-logical--negation-selectors)
+- [🚀 Advanced Selector Combinations](#-advanced-selector-combinations)
+- [🧭 Usage Frequency Key](#-usage-frequency-key)
+- [📖 Further Reading](#-further-reading)
+- [✅ License](#-license)
+- [✍️ Maintainer](#️-maintainer)
 
 ---
 
@@ -187,4 +187,4 @@ This reference is published under the MIT License. Free to use for education and
 ### ✍️ Maintainer
 
 **Hasib Hasnain**  
-[hasibhasnain.com](https://hasibhasnain.com)  
+[hasibhasnain.com](https://hasibhasnain.com)
