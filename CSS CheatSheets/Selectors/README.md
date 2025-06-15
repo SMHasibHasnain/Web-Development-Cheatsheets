@@ -8,7 +8,7 @@ This repository provides a **comprehensive, categorized, and example-rich refere
 ## 📚 Table of Contents
 
 - [Basic Selectors](#basic-selectors)
-- [Combinator Selectors](##🤩Combinator Selectors)
+- [Combinator Selectors](##Combinator Selectors)
 - [Attribute Selectors](#attribute-selectors)
 - [Pseudo-Class Selectors](#pseudo-class-selectors)
   - [Structural Pseudo-Classes](#structural-pseudo-classes)
